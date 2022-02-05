@@ -1,0 +1,24 @@
+{
+  "name": "skill-tree",
+  "version": "1.0.0",
+  "description": "Skill management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrstkatomas/skill-tree.git"
+  },
+  "keywords": [
+    "skill",
+    "tree",
+    "management"
+  ],
+  "author": "Tomas Hrstka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrstkatomas/skill-tree/issues"
+  },
+  "homepage": "https://github.com/hrstkatomas/skill-tree#readme"
+}
